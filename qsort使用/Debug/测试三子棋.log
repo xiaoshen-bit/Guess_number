@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\Administrator\Desktop\c语言学习\进阶\三子棋\测试三子棋\test.c(54): warning C4013: “srand”未定义；假设外部返回 int
+  测试三子棋.vcxproj -> C:\Users\Administrator\Desktop\c语言学习\进阶\三子棋\测试三子棋\Debug\测试三子棋.exe
